@@ -6,86 +6,86 @@ tags:
   - English
   - English_Topics
 ---
-# **English Level (A1):**
+# English Level (A1):
 
-## **Subtopic: Family Members**
+## Subtopic: Family Members
 
-### **Sub-subtopic: Immediate Family**
+### Sub-subtopic: Immediate Family
 
-#### **Sub-sub-subtopic: Parents**
+#### Sub-sub-subtopic: Parents
 - Father
 - Mother
 - Parent
 
-#### **Sub-sub-subtopic: Spouse**
+#### Sub-sub-subtopic: Spouse
 - Husband
 - Wife
 - Spouse
 
-#### **Sub-sub-subtopic: Siblings**
+#### Sub-sub-subtopic: Siblings
 - Brother
 - Sister
 - Sibling
 
-#### **Sub-sub-subtopic: Children**
+#### Sub-sub-subtopic: Children
 - Son
 - Daughter
 - Child
 ---
-### **Sub-subtopic: Extended Family**
+### Sub-subtopic: Extended Family
 
-#### **Sub-sub-subtopic: Grandparents**
+#### Sub-sub-subtopic: Grandparents
 - Grandfather
 - Grandmother
 - Grandparent
 
-#### **Sub-sub-subtopic: Grandchildren**
+#### Sub-sub-subtopic: Grandchildren
 - Grandson
 - Granddaughter
 - Grandchild
 
-#### **Sub-sub-subtopic: Aunts and Uncles**
+#### Sub-sub-subtopic: Aunts and Uncles
 - Aunt
 - Uncle
 
-#### **Sub-sub-subtopic: Cousins**
+#### Sub-sub-subtopic: Cousins
 - Cousin
 
-#### **Sub-sub-subtopic: Nieces and Nephews**
+#### Sub-sub-subtopic: Nieces and Nephews
 - Niece
 - Nephew
 
-#### **Sub-sub-subtopic: Great-grandparents**
+#### Sub-sub-subtopic: Great-grandparents
 - Great-grandfather
 - Great-grandmother
 - Great-grandparent
 
-#### **Sub-sub-subtopic: Great-grandchildren**
+#### Sub-sub-subtopic: Great-grandchildren
 - Great-grandson
 - Great-granddaughter
 - Great-grandchild
 
-#### **Sub-sub-subtopic: Great-aunts and Great-uncles**
+#### Sub-sub-subtopic: Great-aunts and Great-uncles
 - Great-aunt
 - Great-uncle
 
-#### **Sub-sub-subtopic: Great-nieces and Great-nephews**
+#### Sub-sub-subtopic: Great-nieces and Great-nephews
 - Great-niece
 - Great-nephew
 
 ---
 
-### **Sub-subtopic: Family by Marriage (In-laws)**
+### Sub-subtopic: Family by Marriage (In-laws)
 
-#### **Sub-sub-subtopic: Parents-in-law**
+#### Sub-sub-subtopic: Parents-in-law
 - Father-in-law
 - Mother-in-law
 
-#### **Sub-sub-subtopic: Siblings-in-law**
+#### Sub-sub-subtopic: Siblings-in-law
 - Brother-in-law
 - Sister-in-law
 
-#### **Sub-sub-subtopic: Children-in-law**
+#### Sub-sub-subtopic: Children-in-law
 - Son-in-law
 - Daughter-in-law
 
@@ -93,62 +93,62 @@ tags:
 
 --- 
 
-### **Sub-subtopic: Stepfamily**
+### Sub-subtopic: Stepfamily
 
-#### **Sub-sub-subtopic: Stepparents**
+#### Sub-sub-subtopic: Stepparents
 - Stepfather
 - Stepmother
 
-#### **Sub-sub-subtopic: Stepchildren**
+#### Sub-sub-subtopic: Stepchildren
 - Stepson
 - Stepdaughter
 
-#### **Sub-sub-subtopic: Stepsiblings**
+#### Sub-sub-subtopic: Stepsiblings
 - Stepbrother
 - Stepsister
 
 
 ---
-### **Sub-subtopic: Adoptive Family**
+### Sub-subtopic: Adoptive Family
 
-#### **Sub-sub-subtopic: Adoptive Parents**
+#### Sub-sub-subtopic: Adoptive Parents
 - Adoptive Father
 - Adoptive Mother
 - Adoptive Parent
 
-#### **Sub-sub-subtopic: Adoptive Children**
+#### Sub-sub-subtopic: Adoptive Children
 - Adoptive Son
 - Adoptive Daughter
 - Adoptive Child
 
-#### **Sub-sub-subtopic: Adoptive Siblings**
+#### Sub-sub-subtopic: Adoptive Siblings
 - Adoptive Brother
 - Adoptive Sister
 - Adoptive Sibling
 
 ---
-### **Sub-subtopic: Foster Family**
+### Sub-subtopic: Foster Family
 
-#### **Sub-sub-subtopic: Foster Parents**
+#### Sub-sub-subtopic: Foster Parents
 - Foster Father
 - Foster Mother
 - Foster Parent
 
-#### **Sub-sub-subtopic: Foster Children**
+#### Sub-sub-subtopic: Foster Children
 - Foster Son
 - Foster Daughter
 - Foster Child
 
-#### **Sub-sub-subtopic: Foster Siblings**
+#### Sub-sub-subtopic: Foster Siblings
 - Foster Brother
 - Foster Sister
 - Foster Sibling
 
 ---
 
-### **Sub-subtopic: Half Family**
+### Sub-subtopic: Half Family
 
-#### **Sub-sub-subtopic: Half-Siblings**
+#### Sub-sub-subtopic: Half-Siblings
 - Half-brother
 - Half-sister
 
