@@ -79,15 +79,17 @@ tags:
 #### Sub-sub-subtopic: Parents-in-law
 - Father-in-law
 - Mother-in-law
+- Parent-in-law
 
 #### Sub-sub-subtopic: Siblings-in-law
 - Brother-in-law
 - Sister-in-law
+- Sibling-in-law
 
 #### Sub-sub-subtopic: Children-in-law
 - Son-in-law
 - Daughter-in-law
-
+- Child-in-law
 
 
 --- 
@@ -146,8 +148,7 @@ tags:
 ---
 
 ### Sub-subtopic: Half Family
-
 #### Sub-sub-subtopic: Half-Siblings
 - Half-brother
 - Half-sister
-
+- Half-sibling
