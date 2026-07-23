@@ -15,17 +15,17 @@ tags:
 #### Function 1: Naming a  immediate family member
 ##### Pattern 1: This is my [Family Member].
 
-| Relationship | Meaning                                                       |
-| ------------ | ------------------------------------------------------------- |
-| Father       | Your male parent                                              |
-| Mother       | Your female parent                                            |
-| Brother      | A male sibling                                                |
-| Sister       | A female sibling                                              |
-| Husband      | A man you are married to                                      |
-| Wife         | A woman you are married to                                    |
-| Son          | A male child of yours                                         |
-| Daughter     | A female child of yours                                       |
-| Baby         | A very young child, usually your own child in family contexts |
+| Family Member  | Meaning                                                       |
+| -------------- | ------------------------------------------------------------- |
+| Father         | Your male parent                                              |
+| Mother         | Your female parent                                            |
+| Brother        | A male sibling                                                |
+| Sister         | A female sibling                                              |
+| Husband        | A man you are married to                                      |
+| Wife           | A woman you are married to                                    |
+| Son            | A male child of yours                                         |
+| Daughter       | A female child of yours                                       |
+| Baby           | A very young child, usually your own child in family contexts |
 
 ##### Pattern 2: [Family Member]'s name is [Name].
     - Family Member: My mother | My father | My sister | My brother
