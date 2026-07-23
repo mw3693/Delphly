@@ -28,45 +28,65 @@ tags:
 #### Function 1: Naming a  immediate family member                                                                                   
 ##### Pattern 1: This is my [An immediate Family Member].
 
-##### Pattern 2: [An immediate Family Member]'s name is [Name].
+##### Pattern 2: My [An immediate Family Member] is called [Name].
+
+##### Pattern 3: [An immediate Family Member]'s name is [Name].
 
 
 #### Function 2: Introducing a immediate family member
-##### ==Pattern 1: I'd like you to meet my [An immediate Family Member].==
+##### Pattern 1: I'd like you to meet my [An immediate Family Member].
 
 
-##### ==Pattern 2: This is [Name], my [An immediate Family Member].==
+##### Pattern 2: This is [Name], my [An immediate Family Member].
 
 
 #### Function 3: Stating immediate family size
 
-- Pattern: I have [Number] [Family Member].
-    - Number: one | two | three | four
-    - Family Member: brother | sister | brothers | sisters | child | children
-- Pattern: There are [Number] people in my family.
-    - Number: three | four | five | six | seven
+#####  Pattern 1: I have [Number] [An immediate Family Member].
+
+##### Pattern 2: There are [Number] people in my family.
+
 
 #### Function 4: Asking about family size
 
-- Pattern: How many [Family Member] do you have?
-    - Family Member: brothers | sisters | children | siblings
-- Pattern: How many people are there in your family?
+##### Pattern 1: How many [Family Member] do you have?
 
-#### Function 5: Stating marital status
+#####  Pattern 2: How many people are there in your family?
 
-- Pattern: My [Family Member] is [Marital Status].
-    - Family Member: sister | brother | mother | father
-    - Marital Status: married | single | divorced | widowed
+#### Function 5: Stating marital status for an Immediate Family member.
+
+| Marital Status | Meaning                                 |
+| -------------- | --------------------------------------- |
+| Single         | A person who is not married             |
+| Married        | A person who has a husband or wife      |
+| Divorced       | A person whose marriage has ended       |
+| Widowed        | A person whose husband or wife has died |
+| Engaged        | A person who plans to get married       |
+##### Pattern 1: My [Family Member] is [Marital Status].
+
+
+
+---
 
 ### Sub-subtopic: Extended Family
 
-##### Function: Naming extended family members
+#### Function 1: Naming extended family members
+| Family Member | Meaning                                |
+| ------------- | -------------------------------------- |
+| Grandfather   | The father of your mother or father    |
+| Grandmother   | The mother of your mother or father    |
+| Uncle         | The brother of your mother or father   |
+| Aunt          | The sister of your mother or father    |
+| Cousin        | The child of your aunt or uncle        |
+| Nephew        | The son of your brother or sister      |
+| Niece         | The daughter of your brother or sister |
+| Grandson      | The son of your child                  |
+| Granddaughter | The daughter of your child             |
 
-- Pattern: My [Extended Family Member] is called [Name].
-    - Extended Family Member: grandmother | grandfather | uncle | aunt | cousin | nephew | niece
-    - Name: Fatima | George | Hana | Karim
+##### Pattern 1: My [Extended Family Member] is called [Name].
 
-##### Function: Explaining family relationships
+
+#### Function 2: Explaining family relationships
 
 - Pattern: [Name] is my [Family Member]'s [Family Member2].
     - Name: Sara
@@ -81,77 +101,382 @@ tags:
     - Pet: dog | cat | bird | rabbit
     - Pet Name: Max | Lulu | Rex
 
-### Subtopic: Basic Personal Info about Family Members
 
-#### Sub-subtopic: Age
+---
 
-##### Function: Stating age of a family member
+## Subtopic: Basic Personal Info about Family Members
+### Sub-subtopic: Age
 
-- Pattern: My [Family Member] is [Age] years old.
-    - Family Member: father | mother | brother | sister
-    - Age: ten | twenty-five | forty | seventy
+#### Function 1: Stating age of a family member
+| Number Range     | Examples                                                                                                                    |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 0–10             | zero, one, two, three, four, five, six, seven, eight, nine, ten                                                             |
+| 11–20            | eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty                                 |
+| 21–30            | twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty |
+| 31–40            | thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, thirty-nine, forty  |
+| 41–50            | forty-one, forty-two, forty-three, forty-four, forty-five, forty-six, forty-seven, forty-eight, forty-nine, fifty           |
+| 51–100           | fifty-one, sixty, seventy, eighty, ninety, one hundred                                                                      |
 
-##### Function: Asking age of a family member
+#####  Pattern 1: My [Family Member] is [Age] years old.
 
-- Pattern: How old is your [Family Member]?
-    - Family Member: sister | brother | father | mother
+#### Function 2: Asking age of a family member
 
-#### Sub-subtopic: Nationality & Origin
+##### Pattern 1: How old is your [Family Member]?
 
-##### Function: Stating nationality of a family member
+### Sub-subtopic: Nationality & Origin
+| Country           | Nationality |
+| ----------------- | ----------- |
+| Egypt             | Egyptian    |
+| Germany           | German      |
+| France            | French      |
+| Italy             | Italian     |
+| Spain             | Spanish     |
+| England           | English     |
+| The United States | American    |
+| Canada            | Canadian    |
+| Australia         | Australian  |
+| Japan             | Japanese    |
+| China             | Chinese     |
+| India             | Indian      |
+| Brazil            | Brazilian   |
+| Mexico            | Mexican     |
+| Turkey            | Turkish     |
+#### Function 1: Stating nationality of a family member
 
-- Pattern: My [Family Member] is [Nationality].
-    - Family Member: mother | father | wife | husband
-    - Nationality: Egyptian | American | French | Lebanese
+##### Pattern 1: My [Family Member] is [Nationality].
 
-#### Sub-subtopic: Residence
 
-##### Function: Stating where a family member lives
+### Sub-subtopic: Residence
 
-- Pattern: My [Family Member] lives in [Place].
+#### Function 1: Stating where a family member lives
+
+##### Pattern 1: My [Family Member] lives in [Place].
     - Family Member: grandmother | uncle | brother
     - Place: Cairo | London | the countryside | a small town
 
-##### Function: Asking where a family member lives
+#### Function 2 : Asking where a family member lives
 
-- Pattern: Where does your [Family Member] live?
-    - Family Member: father | sister | cousin
+##### Pattern: Where does your [Family Member] live?
 
-#### Sub-subtopic: Names & Spelling
 
-##### Function: Asking how to spell a family member's name
+### Sub-subtopic: Names & Spelling
 
-- Pattern: How do you spell your [Family Member]'s name?
-    - Family Member: brother's | sister's | mother's
+#### Function: Asking how to spell a family member's name
 
-### Subtopic: Family Possessions
+ ##### **Pattern: How do you spell your [Family Member]'s name?**
 
-#### Sub-subtopic: Ownership
+---
 
-##### Function: Stating who something belongs to
+## Subtopic: Family Possessions
 
-- Pattern: This is my [Family Member]'s [Object].
-    - Family Member: brother | sister | father | mother
-    - Object: car | phone | bag | room | book
+### Sub-subtopic: Ownership
+#### Function 1: Stating who [Personal Item] belongs to
 
-##### Function: Asking who something belongs to
+##### Pattern:
+This is my [Family Member]'s [Personal Item].
 
-- Pattern: Is this your [Family Member]'s [Object]?
-    - Family Member: sister's | brother's
-    - Object: umbrella | jacket | pen
+| Personal Item | Definition |
+|---|---|
+| Bag | A container used to carry personal things |
+| Book | A set of pages with information or stories |
+| Keys | Small objects used to open locks |
+| Wallet | A small case used to carry money and cards |
+| Watch | A device used to tell the time |
+| Glasses | A thing worn to help you see better |
+| Pen | A tool used for writing |
+| Notebook | A book used for writing notes |
+| Pencil | A tool used for writing or drawing |
+| Bottle | A container used for drinks |
+| Umbrella | A thing used to protect you from rain |
+| Money | Coins and notes used to buy things |
+| Coin | A small piece of metal used as money |
+| Card | A small plastic item used for payment or identification |
+| Ring | A small piece of jewelry worn on a finger |
+| Necklace | Jewelry worn around the neck |
+| Bracelet | Jewelry worn around the wrist |
+| Keychain | A small object used to hold keys together |
 
-#### Sub-subtopic: Location of Things
 
-##### Function: Stating where a family member's belongings are
+#### Function 2: Stating who [Clothing Item] belongs to
 
-- Pattern: My [Family Member]'s [Object] is in the [Location].
-    - Family Member: sister's | father's
-    - Object: bag | keys | shoes
-    - Location: kitchen | bedroom | car
+##### Pattern:
+This is my [Family Member]'s [Clothing Item].
 
-### Subtopic: Basic Family Actions / Daily Life
+| Clothing Item | Definition |
+|---|---|
+| Shirt | A piece of clothing worn on the upper body |
+| T-shirt | A casual shirt with short sleeves |
+| Jacket | Clothing worn over other clothes to keep warm |
+| Coat | A long warm piece of clothing worn outside |
+| Sweater | A warm piece of clothing worn on the upper body |
+| Dress | A one-piece piece of clothing |
+| Skirt | Clothing worn around the waist and covering the legs |
+| Pants | Clothing worn on the lower body |
+| Jeans | Casual pants made of denim |
+| Shorts | Short pants that cover the upper legs |
+| Shoes | Things worn on the feet for walking |
+| Socks | Clothing worn on the feet inside shoes |
+| Hat | Clothing worn on the head |
+| Scarf | Clothing worn around the neck |
+| Belt | A strip worn around the waist |
+| Gloves | Clothing worn on the hands |
+| Tie | A piece of clothing worn around the neck with formal clothes |
+| Pajamas | Clothes worn for sleeping |
+| Boots | Shoes that cover the foot and part of the leg |
+| Sandals | Open shoes worn in warm weather |
 
-#### Sub-subtopic: Simple Routines
+
+#### Function 3: Stating who [Technology Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Technology Item].
+
+| Technology Item | Definition |
+|---|---|
+| Computer | An electronic machine used for work and study |
+| Laptop | A portable computer that you can carry |
+| Tablet | A small computer with a touchscreen |
+| Camera | A device used to take photos and videos |
+| Phone | A device used for calling and messaging |
+| Smartphone | A phone with internet and apps |
+| Headphones | A device worn on the ears to listen to sound |
+| Charger | A device used to give power to electronics |
+| Keyboard | A device used for typing on a computer |
+| Mouse | A device used to control a computer |
+| Television (TV) | A device used for watching programs and videos |
+| Speaker | A device used to play sound |
+| Watch | A device that shows the time |
+| Radio | A device used to listen to audio programs |
+| Game console | A device used to play video games |
+
+
+#### Function 4: Stating who [Document] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Document].
+
+| Document | Definition |
+|---|---|
+| ID card | A card that shows who a person is |
+| Passport | An official document used for travel |
+| Ticket | A document that allows you to travel or enter a place |
+| Driver's license | An official card that allows a person to drive |
+| Bank card | A card used to pay or get money from a bank |
+| Receipt | A paper showing that something was bought |
+
+
+#### Function 5: Stating who [School Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [School Item].
+
+| School Item | Definition |
+|---|---|
+| School bag | A bag used for carrying school things |
+| Notebook | A book used for writing notes |
+| Book | A set of pages used for reading or learning |
+| Pen | A tool used for writing |
+| Pencil | A tool used for writing or drawing |
+| Eraser | A tool used to remove pencil marks |
+| Ruler | A tool used to measure and draw lines |
+| Pencil case | A small bag for keeping pens and pencils |
+
+
+#### Function 6: Stating who [Home Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Home Item].
+
+| Home Item | Definition |
+|---|---|
+| Room | A part of a house used for living or sleeping |
+| Bed | A piece of furniture used for sleeping |
+| Chair | A piece of furniture used for sitting |
+| Desk | A table used for studying or working |
+| Table | A piece of furniture used for eating or working |
+| Sofa | A comfortable seat for several people |
+| Lamp | A device that gives light |
+| TV | A device used for watching programs |
+| Computer | An electronic machine used for work and study |
+| Refrigerator | A machine used for keeping food cold |
+| Cup | A small container used for drinking |
+| Plate | A flat dish used for food |
+| Spoon | A tool used for eating |
+
+
+#### Function 7: Stating who [Vehicle] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Vehicle].
+
+| Vehicle | Definition |
+|---|---|
+| Car | A vehicle used for traveling on roads |
+| Bike | A vehicle with two wheels moved by riding |
+| Bicycle | A vehicle with two wheels moved by pedals |
+| Motorcycle | A two-wheeled vehicle with an engine |
+| Bus | A large vehicle that carries many people |
+| Truck | A large vehicle used for carrying goods |
+
+
+#### Function 8: Stating who [Pet] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Pet].
+
+| Pet    | Definition                                              |
+| ------ | ------------------------------------------------------- |
+| Dog    | A common animal kept as a pet                           |
+| Cat    | A small animal often kept as a pet                      |
+| Bird   | An animal with wings kept by some people as a pet       |
+| Fish   | An animal that lives in water and can be kept in a tank |
+| Rabbit | A small animal with long ears kept as a pet             |
+| Turtle | A slow animal with a hard shell kept as a pet           |
+
+#### Function 9: Stating who [Food and Drink Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Food/Drink Item].
+
+| Food and Drink Item | Definition                                          |
+| ------------------- | --------------------------------------------------- |
+| Cup                 | A small container used for drinking                 |
+| Glass               | A container used for drinking water or other drinks |
+| Bottle              | A container for liquids                             |
+| Plate               | A flat dish used for food                           |
+| Bowl                | A round container used for food                     |
+| Spoon               | A tool used for eating                              |
+| Fork                | A tool used for picking up food                     |
+| Knife               | A tool used for cutting food                        |
+| Lunch box           | A container used for carrying food                  |
+
+#### Function 10: Stating who [Furniture Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Furniture Item].
+
+| Furniture Item | Definition                                     |
+| -------------- | ---------------------------------------------- |
+| Bed            | A piece of furniture used for sleeping         |
+| Chair          | A piece of furniture used for sitting          |
+| Table          | A piece of furniture with a flat top           |
+| Desk           | A table used for studying or working           |
+| Sofa           | A comfortable seat for several people          |
+| Wardrobe       | A large piece of furniture for storing clothes |
+| Shelf          | A place for keeping books and things           |
+| Mirror         | A glass that shows your reflection             |
+| Clock          | A device that shows the time                   |
+
+#### Function 11: Stating who [Kitchen Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Kitchen Item].
+
+| Kitchen Item | Definition                           |
+| ------------ | ------------------------------------ |
+| Refrigerator | A machine used for keeping food cold |
+| Oven         | A machine used for cooking food      |
+| Pan          | A tool used for cooking food         |
+| Pot          | A deep container used for cooking    |
+| Plate        | A dish used for eating food          |
+| Cup          | A container used for drinking        |
+| Spoon        | A tool used for eating               |
+| Fork         | A tool used for eating               |
+
+#### Function 12: Stating who [Bathroom Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Bathroom Item].
+
+| Bathroom Item | Definition                          |
+| ------------- | ----------------------------------- |
+| Towel         | A piece of cloth used for drying    |
+| Toothbrush    | A tool used for cleaning teeth      |
+| Toothpaste    | A substance used for cleaning teeth |
+| Soap          | A substance used for washing        |
+| Shampoo       | A liquid used for washing hair      |
+| Comb          | A tool used for arranging hair      |
+
+#### Function 13: Stating who [Toy] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Toy].
+
+| Toy        | Definition                                |
+| ---------- | ----------------------------------------- |
+| Ball       | A round object used for playing           |
+| Doll       | A toy that looks like a person            |
+| Car toy    | A small toy vehicle                       |
+| Teddy bear | A soft toy bear                           |
+| Puzzle     | A game made of pieces that form a picture |
+
+
+#### Function 14: Stating who [Accessory] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Accessory].
+
+| Accessory  | Definition                              |
+| ---------- | --------------------------------------- |
+| Hat        | A thing worn on the head                |
+| Sunglasses | Glasses that protect eyes from sunlight |
+| Watch      | A device used to tell the time          |
+| Ring       | A piece of jewelry worn on a finger     |
+| Necklace   | Jewelry worn around the neck            |
+| Bracelet   | Jewelry worn around the wrist           |
+| Earrings   | Jewelry worn on the ears                |
+
+#### Function 15: Stating who [Cleaning Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Cleaning Item].
+
+| Cleaning Item  | Definition                          |
+| -------------- | ----------------------------------- |
+| Towel          | A piece of cloth used for drying    |
+| Brush          | A tool used for cleaning            |
+| Broom          | A tool used for cleaning floors     |
+| Bucket         | A container used for carrying water |
+| Vacuum cleaner | A machine used for cleaning floors  |
+
+#### Function 16: Stating who [Garden / Outdoor Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Outdoor Item].
+
+| Outdoor Item | Definition                        |
+| ------------ | --------------------------------- |
+| Plant        | A living thing that grows in soil |
+| Flower       | A colorful part of a plant        |
+| Tree         | A tall plant with a trunk         |
+| Garden       | An area where plants grow         |
+| Chair        | A seat used outside               |
+
+
+#### Function 17: Stating who [Hobby Item] belongs to
+
+##### Pattern:
+This is my [Family Member]'s [Hobby Item].
+
+| Hobby Item | Definition                        |
+| ---------- | --------------------------------- |
+| Guitar     | A musical instrument with strings |
+| Book       | Something used for reading        |
+| Ball       | A round object used for sports    |
+| Camera     | A device used for taking photos   |
+| Bicycle    | A vehicle used for riding         |
+
+#### Function 18: Asking who something belongs to
+
+##### Pattern: Is this your [Family Member]'s [Object]?
+
+
+
+---
+
+## Subtopic: Basic Family Actions / Daily Life
+
+### Sub-subtopic: Simple Routines
 
 ##### Function: Describing a family member's daily action
 
@@ -159,7 +484,7 @@ tags:
     - Family Member: mother | father | sister
     - Verb: gets up early | goes to work | cooks dinner | reads books
 
-#### Sub-subtopic: Likes and Dislikes
+#### Sub-subtopic: Family Members Likes and Dislikes
 
 ##### Function: Stating a family member's likes
 
@@ -173,7 +498,10 @@ tags:
     - Family Member: mother | son
     - Activity/Thing: noise | fast food | waiting
 
-### Subtopic: Basic Family Communication
+
+---
+
+## Subtopic: Basic Family Communication
 
 #### Sub-subtopic: Greetings & Farewells
 
