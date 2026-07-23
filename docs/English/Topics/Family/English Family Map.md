@@ -5,31 +5,41 @@ tags:
   - English
   - Family
 ---
-# Family
 
-## A1
+#  English Level A1
 
-### Subtopic: Family Members & Identification
+## Subtopic: Family Members & Identification
 
-#### Sub-subtopic: Immediate Family
+### Sub-subtopic: Immediate Family
 
-##### Function: Naming a family member
+#### Function 1: Naming a  immediate family member
+##### Pattern 1: This is my [Family Member].
 
-- Pattern: This is my [Family Member].
-    - Family Member: mother | father | sister | brother | son | daughter | wife | husband | baby
-- Pattern: [Family Member]'s name is [Name].
+| Relationship | Meaning                                                       |
+| ------------ | ------------------------------------------------------------- |
+| Father       | Your male parent                                              |
+| Mother       | Your female parent                                            |
+| Brother      | A male sibling                                                |
+| Sister       | A female sibling                                              |
+| Husband      | A man you are married to                                      |
+| Wife         | A woman you are married to                                    |
+| Son          | A male child of yours                                         |
+| Daughter     | A female child of yours                                       |
+| Baby         | A very young child, usually your own child in family contexts |
+
+##### Pattern 2: [Family Member]'s name is [Name].
     - Family Member: My mother | My father | My sister | My brother
     - Name: Sarah | John | Layla | Omar | Mona
 
-##### Function: Introducing a family member
-
-- Pattern: I'd like you to meet my [Family Member].
+#### Function 2: Introducing a immediate family member
+##### Pattern 1: I'd like you to meet my [Family Member].
     - Family Member: father | mother | brother | sister | wife | husband
-- Pattern: This is [Name], my [Family Member].
+
+##### Pattern 2: This is [Name], my [Family Member].
     - Name: Ahmed | Mona | Peter | Lina
     - Family Member: cousin | uncle | aunt | son
 
-##### Function: Stating family size
+#### Function 3: Stating immediate family size
 
 - Pattern: I have [Number] [Family Member].
     - Number: one | two | three | four
@@ -37,19 +47,19 @@ tags:
 - Pattern: There are [Number] people in my family.
     - Number: three | four | five | six | seven
 
-##### Function: Asking about family size
+#### Function 4: Asking about family size
 
 - Pattern: How many [Family Member] do you have?
     - Family Member: brothers | sisters | children | siblings
 - Pattern: How many people are there in your family?
 
-##### Function: Stating marital status
+#### Function 5: Stating marital status
 
 - Pattern: My [Family Member] is [Marital Status].
     - Family Member: sister | brother | mother | father
     - Marital Status: married | single | divorced | widowed
 
-#### Sub-subtopic: Extended Family
+### Sub-subtopic: Extended Family
 
 ##### Function: Naming extended family members
 
