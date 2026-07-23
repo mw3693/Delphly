@@ -12,32 +12,31 @@ tags:
 
 ### Sub-subtopic: Immediate Family
 
-#### Function 1: Naming a  immediate family member
-##### Pattern 1: This is my [Family Member].
+| An immediate Family Member | Meaning                                                       |
+| -------------------------- | ------------------------------------------------------------- |
+| Father                     | Your male parent                                              |
+| Mother                     | Your female parent                                            |
+| Brother                    | A male sibling                                                |
+| Sister                     | A female sibling                                              |
+| Husband                    | A man you are married to                                      |
+| Wife                       | A woman you are married to                                    |
+| Son                        | A male child of yours                                         |
+| Daughter                   | A female child of yours                                       |
+| Baby                       | A very young child, usually your own child in family contexts |
 
-| Family Member  | Meaning                                                       |
-| -------------- | ------------------------------------------------------------- |
-| Father         | Your male parent                                              |
-| Mother         | Your female parent                                            |
-| Brother        | A male sibling                                                |
-| Sister         | A female sibling                                              |
-| Husband        | A man you are married to                                      |
-| Wife           | A woman you are married to                                    |
-| Son            | A male child of yours                                         |
-| Daughter       | A female child of yours                                       |
-| Baby           | A very young child, usually your own child in family contexts |
 
-##### Pattern 2: [Family Member]'s name is [Name].
-    - Family Member: My mother | My father | My sister | My brother
-    - Name: Sarah | John | Layla | Omar | Mona
+#### Function 1: Naming a  immediate family member                                                                                   
+##### Pattern 1: This is my [An immediate Family Member].
+
+##### Pattern 2: [An immediate Family Member]'s name is [Name].
+
 
 #### Function 2: Introducing a immediate family member
-##### Pattern 1: I'd like you to meet my [Family Member].
-    - Family Member: father | mother | brother | sister | wife | husband
+##### ==Pattern 1: I'd like you to meet my [An immediate Family Member].==
 
-##### Pattern 2: This is [Name], my [Family Member].
-    - Name: Ahmed | Mona | Peter | Lina
-    - Family Member: cousin | uncle | aunt | son
+
+##### ==Pattern 2: This is [Name], my [An immediate Family Member].==
+
 
 #### Function 3: Stating immediate family size
 
