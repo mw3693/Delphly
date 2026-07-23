@@ -1,9 +1,9 @@
 ---
-title: English Family Knowledge Base
+title: English Home Knowledge Base
 sidebar_position: 1
 tags:
   - English
-  - Family
+  - Home
 ---
 
 #  English Level A1
@@ -103,296 +103,67 @@ tags:
 
 
 ---
+
 ## Subtopic: Basic Personal Info about Family Members
-
-### Sub-subtopic: Names
-
-#### Function 1: Stating a family member's name
-
-##### Pattern 1: My [Family Member]'s name is [Name].
-
-#### Function 2: Asking a family member's name
-
-##### Pattern 1: What is your [Family Member]'s name?
-
-#### Function 3: Asking how to spell a family member's name
-
-##### Pattern 1: How do you spell your [Family Member]'s name?
-
-
----
-
 ### Sub-subtopic: Age
 
 #### Function 1: Stating age of a family member
+| Number Range     | Examples                                                                                                                    |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 0–10             | zero, one, two, three, four, five, six, seven, eight, nine, ten                                                             |
+| 11–20            | eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty                                 |
+| 21–30            | twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty |
+| 31–40            | thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, thirty-nine, forty  |
+| 41–50            | forty-one, forty-two, forty-three, forty-four, forty-five, forty-six, forty-seven, forty-eight, forty-nine, fifty           |
+| 51–100           | fifty-one, sixty, seventy, eighty, ninety, one hundred                                                                      |
 
-| Number Range | Examples |
-|--------------|----------|
-| 0–10 | zero, one, two, three, four, five, six, seven, eight, nine, ten |
-| 11–20 | eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty |
-| 21–30 | twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty |
-| 31–40 | thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, thirty-nine, forty |
-| 41–50 | forty-one, forty-two, forty-three, forty-four, forty-five, forty-six, forty-seven, forty-eight, forty-nine, fifty |
-| 51–100 | fifty-one, sixty, seventy, eighty, ninety, one hundred |
-
-##### Pattern 1: My [Family Member] is [Age] years old.
+#####  Pattern 1: My [Family Member] is [Age] years old.
 
 #### Function 2: Asking age of a family member
 
 ##### Pattern 1: How old is your [Family Member]?
 
-
----
-
 ### Sub-subtopic: Nationality & Origin
-
-| Country | Nationality |
-|----------|-------------|
-| Egypt | Egyptian |
-| Germany | German |
-| France | French |
-| Italy | Italian |
-| Spain | Spanish |
-| England | English |
-| The United States | American |
-| Canada | Canadian |
-| Australia | Australian |
-| Japan | Japanese |
-| China | Chinese |
-| India | Indian |
-| Brazil | Brazilian |
-| Mexico | Mexican |
-| Turkey | Turkish |
-
+| Country           | Nationality |
+| ----------------- | ----------- |
+| Egypt             | Egyptian    |
+| Germany           | German      |
+| France            | French      |
+| Italy             | Italian     |
+| Spain             | Spanish     |
+| England           | English     |
+| The United States | American    |
+| Canada            | Canadian    |
+| Australia         | Australian  |
+| Japan             | Japanese    |
+| China             | Chinese     |
+| India             | Indian      |
+| Brazil            | Brazilian   |
+| Mexico            | Mexican     |
+| Turkey            | Turkish     |
 #### Function 1: Stating nationality of a family member
 
 ##### Pattern 1: My [Family Member] is [Nationality].
 
-#### Function 2: Asking about nationality of a family member
-
-##### Pattern 1: What nationality is your [Family Member]?
-
-#### Function 3: Stating where a family member is from
-
-##### Pattern 1: My [Family Member] is from [Country].
-
-#### Function 4: Asking where a family member is from
-
-##### Pattern 1: Where is your [Family Member] from?
-
-
----
 
 ### Sub-subtopic: Residence
 
 #### Function 1: Stating where a family member lives
 
 ##### Pattern 1: My [Family Member] lives in [Place].
-- Family Member: grandmother | uncle | brother
-- Place: Cairo | London | the countryside | a small town
+    - Family Member: grandmother | uncle | brother
+    - Place: Cairo | London | the countryside | a small town
 
-#### Function 2: Asking where a family member lives
+#### Function 2 : Asking where a family member lives
 
-##### Pattern 1: Where does your [Family Member] live?
+##### Pattern: Where does your [Family Member] live?
 
 
----
+### Sub-subtopic: Names & Spelling
 
-### Sub-subtopic: Occupation
+#### Function: Asking how to spell a family member's name
 
-#### Function 1: Stating a family member's job
-
-##### Pattern 1: My [Family Member] is a [Job].
-
-#### Function 2: Asking a family member's job
-
-##### Pattern 1: What does your [Family Member] do?
-
-##### Pattern 2: What is your [Family Member]'s job?
-
-
----
-
-### Sub-subtopic: Marital Status
-
-#### Function 1: Stating marital status
-
-##### Pattern 1: My [Family Member] is [marital status].
-
-#### Function 2: Asking marital status
-
-##### Pattern 1: Is your [Family Member] married?
-
-
----
-
-### Sub-subtopic: Languages
-
-| Language |
-|----------|
-| Arabic |
-| English |
-| German |
-| French |
-| Spanish |
-| Italian |
-| Chinese |
-| Japanese |
-| Turkish |
-| Russian |
-
-#### Function 1: Stating that a family member speaks one language
-
-##### Pattern 1: My [Family Member] speaks [Language].
-
----
-
-#### Function 2: Stating that a family member speaks two languages
-
-##### Pattern 1: My [Family Member] speaks [Language] and [Language].
-
----
-
-#### Function 3: Stating that a family member speaks several languages
-
-##### Pattern 1: My [Family Member] speaks [Language], [Language], and [Language].
-
----
-
-#### Function 4: Stating the number of languages a family member speaks
-
-##### Pattern 1: My [Family Member] speaks [Number] language.
-
-##### Pattern 2: My [Family Member] speaks [Number] languages.
-
----
-
-#### Function 5: Saying that a family member only speaks one language
-
-##### Pattern 1: My [Family Member] only speaks [Language].
-
----
-
-#### Function 6: Saying that a family member does not speak a language
-
-##### Pattern 1: My [Family Member] doesn't speak [Language].
-
----
-
-#### Function 7: Saying that a family member speaks a little of a language
-
-##### Pattern 1: My [Family Member] speaks a little [Language].
-
-##### Pattern 2: My [Family Member] speaks a little bit of [Language].
-
----
-
-#### Function 8: Saying that a family member speaks a language well
-
-##### Pattern 1: My [Family Member] speaks [Language] well.
-
-##### Pattern 2: My [Family Member] speaks [Language] very well.
-
----
-
-#### Function 9: Asking what languages a family member speaks
-
-##### Pattern 1: What languages does your [Family Member] speak?
-
----
-
-#### Function 10: Asking whether a family member speaks a language
-
-##### Pattern 1: Does your [Family Member] speak [Language]?
-
----
-
-#### Function 11: Asking how many languages a family member speaks
-
-##### Pattern 1: How many languages does your [Family Member] speak?
-
----
-
-#### Function 12: Asking how well a family member speaks a language
-
-##### Pattern 1: How well does your [Family Member] speak [Language]?
-
----
-
-### Sub-subtopic: Birthday
-
-| Month |
-|--------|
-| January |
-| February |
-| March |
-| April |
-| May |
-| June |
-| July |
-| August |
-| September |
-| October |
-| November |
-| December |
-
-| Ordinal Numbers |
-|-----------------|
-| first (1st) |
-| second (2nd) |
-| third (3rd) |
-| fourth (4th) |
-| fifth (5th) |
-| ... |
-| thirty-first (31st) |
-
-#### Function 1: Stating a family member's birthday
-
-##### Pattern 1: My [Family Member]'s birthday is on [Date].
-
-##### Pattern 2: My [Family Member]'s birthday is in [Month].
-
----
-
-#### Function 2: Asking a family member's birthday
-
-##### Pattern 1: When is your [Family Member]'s birthday?
-
----
-
-#### Function 3: Saying that today is a family member's birthday
-
-##### Pattern 1: Today is my [Family Member]'s birthday.
-
----
-
-#### Function 4: Saying when a family member's birthday is
-
-##### Pattern 1: My [Family Member]'s birthday is today.
-
-##### Pattern 2: My [Family Member]'s birthday is tomorrow.
-
----
-
-#### Function 5: Saying a family member's age on their birthday
-
-##### Pattern 1: My [Family Member] is [Age] today.
-
-##### Pattern 2: My [Family Member] is [Age] years old today.
-
----
-
-#### Function 6: Saying that a family member has a birthday party
-
-##### Pattern 1: My [Family Member] has a birthday party.
-
-##### Pattern 2: My [Family Member] has a birthday party today.
-
----
-
-#### Function 7: Asking if today is a family member's birthday
-
-##### Pattern 1: Is today your [Family Member]'s birthday?
+ ##### **Pattern: How do you spell your [Family Member]'s name?**
 
 ---
 
@@ -702,12 +473,6 @@ This is my [Family Member]'s [Hobby Item].
 
 
 ---
-
-
-## Subtopic : Family member Likes and dislikes:
-
-
-
 
 ## Subtopic: Basic Family Actions / Daily Life
 
